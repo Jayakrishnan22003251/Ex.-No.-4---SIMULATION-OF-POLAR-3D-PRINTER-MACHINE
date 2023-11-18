@@ -32,7 +32,8 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
-![Uploading WhatsApp Image 2023-11-18 at 14.33.08_6b4ea61f.jpg…]()
+![WhatsApp Image 2023-11-18 at 14 33 09_c57a83b8](https://github.com/Jayakrishnan22003251/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/120232371/56d123d3-f14d-4c37-befe-e52455677757)
+
 
 ### Name: JAYAKRISHNAN L B L
 ### Register Number: 212222230052
